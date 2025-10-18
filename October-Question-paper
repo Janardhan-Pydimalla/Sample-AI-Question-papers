@@ -1,0 +1,117 @@
+SECTION A: OBJECTIVE TYPE QUESTIONS (24x1 = 19 Marks)
+    • Q1. Answer any 4 out of the given 6 questions. (1 × 4 = 4 Marks)
+i. The first step of an AI Project Life Cycle is _____ (a) Model Building (b) Problem Scoping (c) Data Acquisition (d) Evaluation
+ii. The document used to define what problem the AI will solve is called _____ (a) Dataset (b) Problem Statement (c) Algorithm (d) Canvas
+iii. The 4 W Problem Canvas includes which of the following? (a) Who, What, Where, Why (b) When, Which, Who, Why (c) Who, What, When, Why (d) Where, When, How, Why
+iv. The stage of cleaning, removing duplicates, and filling missing data is part of _____ (a) Data Collection (b) Data Pre-processing (c) Modelling (d) Deployment
+v. The main purpose of the evaluation phase is _____ (a) Collect more data (b) Build the model (c) Check accuracy and performance (d) Add new features
+vi. Deployment means _____ (a) Storing the model file (b) Training again (c) Using the model in real-life applications (d) Testing on training data
+
+
+    • Q2. Answer any 5 out of the given 6 questions. (1 × 5 = 5 Marks)
+i. A neuron performs a _____ of inputs followed by an activation function.
+(a) Sum (b) Weighted sum (c) Average (d) Subtraction
+ii. The first layer of a neural network is known as _____
+(a) Hidden layer (b) Output layer (c) Input layer (d) Bias layer
+iii. The mathematical function that decides whether a neuron fires or not is called _____
+(a) Loss function (b) Activation function (c) Optimizer (d) Cost function
+iv. Which of the following is an activation function? 
+a) ReLU (b) MSE (c) Cross-entropy (d) SGD
+v. Overfitting occurs when a model _____
+(a) Performs well on training but poorly on test data (b) Performs well on both (c) Never learns (d) Predicts randomly
+vi. To reduce overfitting, we can use _____
+(a) Dropout or Regularization (b) No validation set (c) Add bias to inputs (d) Use less data
+    • Q3. Answer any 5 out of the given 6 questions. (1 × 5 = 5 Marks)
+i. The dataset used to train the model is known as _____
+(a) Test set (b) Validation set (c) Training set (d) Deployment set
+ii. Assertion (A): Neural networks can have multiple hidden layers.
+Reason (R): Each layer extracts different levels of features.
+(a) Both A and R true, R explains A (b) Both true, R does not explain A (c) A true, R false (d) A false, R true
+iii. The learning algorithm used in most neural networks is _____
+(a) Backward Propagation (b) Linear Regression (c) Decision Tree (d) Naïve Bayes
+iv. Increasing the number of neurons or layers generally makes a model _____ 
+(a) Simpler (b) More complex (c) Less accurate (d) Constant
+v. The value that controls how much weights change in one update step is _____
+(a) Loss (b) Learning Rate (c) Batch Size (d) Accuracy
+vi. Which of the following metrics is used for model evaluation?
+(a) Recall (b) Layer (c) Epoch (d) Feature
+    • Q4. Answer any 5 out of the given 6 questions. (1 × 5 = 5 Marks)
+i. The step of dividing data into training and testing sets is done in _____ stage. (a) Data Acquisition (b) Data Preparation (c) Model Building (d) Evaluation
+ii. Which one of these is an example of an AI Project goal?
+(a) Create a chatbot for school queries
+(b) Print a poster
+(c) Write a poem
+(d) Draw a map
+iii. If a neural network predicts output = 1 for every input, the issue may be _____
+(a) Overfitting (b) Underfitting (c) Bias error (d) Precision
+iv. Confusion matrix is used to _____
+(a) Calculate model performance (b) Collect data (c) Normalize data (d) Shuffle data
+v. Which of these statements is true?
+(a) Testing data is always larger than training data.
+(b) Training data is used to learn patterns.
+(c) Evaluation data is used for learning.
+(d) Deployment data is used for validation.
+vi. Accuracy = _____ / Total Predictions.
+(a) Correct Predictions (b) Loss (c) Errors (d) False Positives
+
+
+Q5. Answer any 5 out of the given 6 questions. (1 × 5 = 5 Marks)
+i)During which stage of the AI project cycle do we use the "4Ws Problem Canvas" to get a clearer understanding of the project's goal?
+a) Evaluation
+b) Data Acquisition
+c) Problem Scoping
+d) Modeling
+ii) What is the term for the set of data on which an AI model is trained to identify patterns?
+a) Test data
+b) Final data
+c) Evaluation data
+d) Training data
+iii) In a simple artificial neural network, the actual data processing and calculations take place within the:
+a) Input layer
+b) Output layer
+c) Hidden layer
+d) All of these
+iv) An artificial neural network (ANN) is a computing system designed to mimic the functioning of which biological system?
+a) Human skeletal system
+b) Human digestive system
+c) Human brain and nervous system
+d) Human circulatory system
+v) After the modeling and evaluation phases of the AI project cycle, the final project is evaluated on new, unseen data to check its performance. What is this final process called?
+a) Data Exploration
+b) Deployment
+c) Data Analysis
+d) Testing
+vi) Which among is not a metric for measuring performance of a model?
+a) Accuracy
+b) Precision
+c) Recall
+d) Mean
+
+
+
+SECTION B: SUBJECTIVE TYPE QUESTIONS (31 Marks)
+I. Answer any 3 out of the given 5 questions. (2 × 3 = 6 Marks)
+6. Define “AI Project Life Cycle”.
+7. Why is problem scoping important before collecting data?
+8. What is the difference between training data and testing data?
+9. State any two advantages of using neural networks.
+10. What is the purpose of an activation function?
+
+II. Answer any 4 out of the given 6 questions. (2 × 4 = 8 Marks)
+11. Explain the role of data acquisition in an AI project.
+12. List any two methods to prevent overfitting in neural networks.
+13. What do you understand by evaluation metrics? Name any two.
+14. Why is data visualization helpful during data analysis?
+15. Explain the difference between bias and variance in model performance.
+16. What happens in the deployment stage of an AI project?
+
+III. Answer any 3 out of the given 5 questions. (4 × 3 = 12 Marks)
+17. Describe the five main stages of an AI Project Life Cycle with one line each.
+18. Write a Python program to find whether a given year is leap year or not.
+Take input from the user.
+Or
+Write Python program to find a character is an alphabetical character ot not.
+Take input from the user.
+19. Write short notes on training, validation, and testing datasets.
+20. A model achieved high accuracy on training data but poor accuracy on new data. Explain the problem and suggest two solutions.
+21. Case Study: You want to build an AI model to identify whether a fruit is ripe or unripe using images. List the main steps you will follow in the AI project life cycle.
